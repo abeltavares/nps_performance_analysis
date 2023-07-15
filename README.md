@@ -108,7 +108,7 @@ These optimization suggestions can help ensure efficient query execution and imp
 
 The Power BI dashboard provides visualizations and insights on the NPS performance. It follows the approach of "Mantra dos Dashboards," which focuses on providing an overview of the NPS performance, allowing for zooming and filtering to dive deeper, and providing detailed insights on demand. The dashboard aims to provide a holistic view of the NPS metrics for effective supervision and analysis of customer satisfaction and loyalty.
 
-![Power BI Dashboard](nps_dashboard.gif)
+![Power BI Dashboard](assets/nps_dashboard.gif)
 
 The dashboard includes the following key visualizations and measures:
 

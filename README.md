@@ -10,7 +10,6 @@ The repository contains SQL queries to calculate NPS and a Power BI dashboard fo
 - [Dataset](#dataset)
 - [SQL Query](#sql-query)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Project Overview
@@ -23,7 +22,7 @@ To understand the context and requirements of the project, please refer to the N
 
 ## Dataset
 
-The dataset required for the second exercise is provided in the [NPS_data.csv](NPS_data.csv) file. This dataset contains information on NPS scores over time, including patient UUIDs, regions, companies, survey results, and session counts.
+The dataset required for the second task is provided in the [NPS_data.csv](NPS_data.csv) file. This dataset contains information on NPS scores over time, including patient UUIDs, regions, companies, survey results, and session counts.
 
 ## SQL Query
 
@@ -118,12 +117,6 @@ The dashboard includes the following key visualizations and measures:
 - Trend Analysis: Displays the trend of NPS scores over time, enabling identification of patterns, spikes, or drops.
 - Active Patient Base: Analyzes the fluctuations in the active patient base, indicating changes in patient retention and acquisition.
 - NPS by Session Count: Illustrates the correlation between NPS scores and the number of therapy sessions attended by patients.
-
-## Installation
-
-To use the SQL query, make sure you have a database system set up with the necessary table populated with relevant data. Modify the query if needed to match your database schema.
-
-To explore the Power BI dashboard, open the `NPS_Performance.pbix` file using Power BI Desktop.
 
 ## Usage
 
